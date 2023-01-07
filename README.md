@@ -11,7 +11,7 @@ Utilize C# and WPF to create an interactive scoreboard that is upgraded from v1.
 
 ## Notes:
 
-	-This program is a WIP. I plan to slowly upgrade it to familiarize myself with WPF and MVVM.
+   -This program is a WIP. I plan to slowly upgrade it to familiarize myself with WPF and MVVM.
 
 Date:
 Early 2023
