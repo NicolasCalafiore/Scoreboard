@@ -1,3 +1,31 @@
+Score Board v2
+Objective:
+Utilize C# and WPF to create an interactive scoreboard that is upgraded from v1.
+
+Functions:
+   - Easily and quickly keep track of scores of two opposing sports teams
+   - Add or subtract scores
+   - Ability to create and manage a sports game-series (Not Implemented Yet)
+   - Ability to create and keep track of your teams overall information
+   - Interactive Background
+
+Notes:
+
+	-This program is a WIP. I plan to slowly upgrade it to familiarize myself with WPF and MVVM.
+
+Date:
+Early 2023
+
+This project was created around 2023 and will be updated.
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+Score Board v1
+
 Objective:
 This Project I made to have a simple sports scoreboard for personal activities
 
