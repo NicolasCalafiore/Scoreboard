@@ -12,6 +12,7 @@
  - Java
  - Swing (GUI)
  - Keeps Track Of Two Teams Scores Easily With Accessible Buttons
+ - Version One's Background Image May Occasionally Not Load
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ## About Version One
  - Started Jan 2023
@@ -22,32 +23,4 @@
  - Upgraded, Cleaner UI
  - Teams, Tournaments, Games (WIP)
  - Maybe I'll include some type of AI to predict the outcome of the game factors (WIP)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ - A downloadable and runnable release is available
