@@ -27,7 +27,7 @@ This project was created around 2023 and will be updated.
 # Score Board v1
 
 ## Objective:
-This Project I made to have a simple sports scoreboard for personal activities
+This Project I made to have a simple sports scoreboard for personal activities and to help me practice Java
 
 ## Functions:
    - Easily and quickly keep track of scores of two opposing sports teams
