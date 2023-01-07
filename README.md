@@ -1,4 +1,4 @@
-Score Board v2
+#Score Board v2
 Objective:
 Utilize C# and WPF to create an interactive scoreboard that is upgraded from v1.
 
