@@ -14,7 +14,7 @@
  - Keeps Track Of Two Teams Scores Easily With Accessible Buttons
  - Version One's Background Image May Occasionally Not Load
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ## About Version One
+ ## About Version Two
  - Started Jan 2023
  - Still In Development
  - C#
